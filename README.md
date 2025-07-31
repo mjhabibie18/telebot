@@ -93,7 +93,7 @@ Contoh:
 ```
 https://api.telegram.org/bot123456:ABC/setWebhook?url=https://abcd1234.ngrok-free.app/api/telegram/webhook
 ```
-![via browser](docs/images/sswebhook.png)
+![Screenshot Telebot](https://raw.githubusercontent.com/mjhabibie18/telebot/main/docs/img/sstelebot.png)
 ---
 
 ## Struktur Route
@@ -221,7 +221,7 @@ class TelegramBotController extends Controller
 - Kirim `/start` atau `/menu 5uUs2b4bQdS3WS8z16LJKw` ke bot kamu
 - Cek respons langsung
 
-![telegram](docs/images/sstelebot.png)
+![Screenshot Via Browser](https://raw.githubusercontent.com/mjhabibie18/telebot/main/docs/img/sswebhook.png)
 
 ## Debugging
 
